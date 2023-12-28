@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jsoup-1.17.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dropbox/Mac/Downloads/jsoup-1.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/Dropbox/Mac/Downloads/slf4j-simple-2.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Dropbox/Mac/Downloads/slf4j-api-2.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Dropbox/Mac/Downloads/commons-csv-1.10.0/commons-csv-1.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
